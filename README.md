@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-develop technology.
 - 🌱 I’m currently learning css, React, node, or related knowledge.
 - 💞️ I’m looking to collaborate on web development.
-- 📫 if you woould like to reach me please contact me at michaelchen753@gmail.com
+- 📫 if you woould like to reach me please contact me at aucozyhome@gmail.com
 
 <!---
 michaelchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
